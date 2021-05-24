@@ -1,0 +1,30 @@
+
+#title{
+    font-weight:bold;
+    font-size:50px;
+    line-height: 1;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#main{
+    background-color:rgb(185, 183, 183);
+    color:#333;
+    text-align:center;
+}
+#image{
+    width:400px;
+    height:600px;
+    margin:auto;
+    @media (max-width: 800px)
+    @media (min-height: 300px)
+}
+body div ul li{
+    text-align: center;
+}
+#img-caption{
+
+}
+#tribute-link {
+    color:black;
+    font-size:medium;
+    
+}
